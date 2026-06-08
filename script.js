@@ -75,7 +75,7 @@ if(form){
         try{
 
             const response = await fetch(
-                "http://localhost:5000/contact",
+                "https://portfolio-backend-rfj1.onrender.com/contact",
                 {
                     method: "POST",
 
